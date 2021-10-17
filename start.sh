@@ -12,6 +12,6 @@ baseDir="$GHOST_INSTALL/content.orig"
 	done
 
 # update the URL
-# node updateConfig.js
+node updateConfig.js
 
 node current/index.js
